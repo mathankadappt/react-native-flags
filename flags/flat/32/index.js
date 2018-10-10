@@ -220,6 +220,7 @@ export const TT = require('./TT.png');
 export const TV = require('./TV.png');
 export const TW = require('./TW.png');
 export const TZ = require('./TZ.png');
+export const TA = require('./TA.png');
 export const UA = require('./UA.png');
 export const UG = require('./UG.png');
 export const US = require('./US.png');
@@ -239,6 +240,8 @@ export const YT = require('./YT.png');
 export const ZA = require('./ZA.png');
 export const ZM = require('./ZM.png');
 export const ZW = require('./ZW.png');
+export const ZZ = require('./ZZ.png');
+
 export const abkhazia = require('./_abkhazia.png');
 export const basqueCountry = require('./_basque-country.png');
 export const britishAntarcticTerritory = require('./_british-antarctic-territory.png');
